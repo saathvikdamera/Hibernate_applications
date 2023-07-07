@@ -1,0 +1,32 @@
+package com.Damera.ProductDAOImpl;
+
+import com.Damera.ProductDAO.ProductDAO;
+import com.Damera.entity.ProductEntity;
+
+public class ProductDAOImpl implements ProductDAO {
+
+	@Override
+	public void saveProduct(ProductEntity entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public ProductEntity fetchProduct(Integer productId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ProductEntity updateProduct(Integer productId, Double new_unit_price) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteProduct(Integer productId) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

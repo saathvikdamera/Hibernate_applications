@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.service.ServiceRegistry"/>
+    <fullyQualifiedTypeName name="com.Damera.entity.Student"/>
+    <fullyQualifiedTypeName name="javax.persistence.Embeddable"/>
+    <fullyQualifiedTypeName name="javax.persistence.EmbeddedId"/>
+    <fullyQualifiedTypeName name="com.Damera.StudentDAO.StudentDAO"/>
+    <fullyQualifiedTypeName name="com.Damera.entity.StudentCompositeKey"/>
+    <fullyQualifiedTypeName name="com.Damera.entity.StudentEntity"/>
+    <fullyQualifiedTypeName name="com.Damera.constants.AppConstants"/>
+    <fullyQualifiedTypeName name="javax.persistence.spi.PersistenceProvider"/>
+    <fullyQualifiedTypeName name="javax.persistence.NamedQuery"/>
+    <fullyQualifiedTypeName name="javax.persistence.Column"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="javax.persistence.NamedNativeQuery"/>
+    <fullyQualifiedTypeName name="com.Damera.dao.ProductDAO"/>
+    <fullyQualifiedTypeName name="com.Damera.entity.ProductEntity"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.Entity"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+    <fullyQualifiedTypeName name="javax.persistence.Id"/>
+    <fullyQualifiedTypeName name="com.Damera.otm.entities.Category"/>
+    <fullyQualifiedTypeName name="javax.persistence.Persistence"/>
+</qualifiedTypeNameHistroy>
